@@ -2,47 +2,47 @@
 
 
 $langmultiwords = array(
-"TXT_H_OFFICE_FULL"          => "Office Full",
-"TXT_H_COMP_PROPERTIES"      => "Company Properties", //As in: things that you own
-"TXT_H_LAST_TRANSACTION"     => "Last transaction",
-"TXT_H_NEWS"                 => "Latest News",
+"TXT_H_OFFICE_FULL"          => "Escritório cheio",
+"TXT_H_COMP_PROPERTIES"      => "Propriedades da Companhia", //As in: things that you own
+"TXT_H_LAST_TRANSACTION"     => "Ultima transação",
+"TXT_H_NEWS"                 => "Ultimas Noticias",
 
-"TXT_MEMBER_ACTIVITY"        => "Member Activity",
-"TXT_H_NO_TRANSACTIONS"      => "No transactions",
-"TXT_PRIVACYPOLICY"          => "Privacy Policy",
-"TXT_H_STARTTIME"            => "Start time",
-"TXT_TERMSOFUSE"             => "Terms of Use",
-"TXT_TOP_WEEK"               => "Top This Week",
-"TXT_TOP_TODAY"              => "Top Today",
+"TXT_MEMBER_ACTIVITY"        => "Atividade dos membros",
+"TXT_H_NO_TRANSACTIONS"      => "Sem transações",
+"TXT_PRIVACYPOLICY"          => "Política de Privacidade",
+"TXT_H_STARTTIME"            => "Hora de Início",
+"TXT_TERMSOFUSE"             => "Termos de Uso",
+"TXT_TOP_WEEK"               => "Top Esta Semana",
+"TXT_TOP_TODAY"              => "Top Hoje",
 "TXT_TOP_TOTAL"              => "Top Total",
 
-"TXT_USERNAME_NOT_AVAILABLE" => "Username Not Available.",
-"TXT_USERNAME_AVAILABLE"     => "Username Available.",
+"TXT_USERNAME_NOT_AVAILABLE" => "Usuário Não Disponvel.",
+"TXT_USERNAME_AVAILABLE"     => "Usuário Disponível.",
 
-"TXT_VIEWALL"                => "View all",
+"TXT_VIEWALL"                => "Ver tudo",
 
-"TXT_H_YOURCOMPANY"          => "Your Company",
+"TXT_H_YOURCOMPANY"          => "Sua Companhia",
 
-"TXT_NOT_SET"                => "Not set",
-"TXT_FREIGHT_NOTIFS"         => "freight notifications", //Number before this
-"TXT_ACTIVE_FREIGHTS"        => "active freights", //Number before this
-"TXT_COMP_NOTIFS"            => "company notifications", //Number before this
-"TXT_NEW_MSGS"               => "New messages",
-"TXT_NO_NEW_MSGS"            => "No new messages",
-"TXT_PENDING_INVOICES"       => "pending invoices", //Number before this
-"TXT_MY_PROFILE"             => "My Profile",
-"TXT_MY_CALENDAR"            => "My Calendar",
-"TXT_MY_INBOX"               => "My Inbox",
-"TXT_CHANGE_PSW"             => "Change Password",
-"TXT_CHANGE_SETTING"         => "Change Setting",
-"TXT_LOG_OUT"                => "Log Out",
+"TXT_NOT_SET"                => "Não configurado",
+"TXT_FREIGHT_NOTIFS"         => "notificaçes de frete", //Number before this
+"TXT_ACTIVE_FREIGHTS"        => "fretes ativos", //Number before this
+"TXT_COMP_NOTIFS"            => "notificaçes da companhia", //Number before this
+"TXT_NEW_MSGS"               => "Novas mensagens",
+"TXT_NO_NEW_MSGS"            => "Sem novas mensagens",
+"TXT_PENDING_INVOICES"       => "faturas pendentes", //Number before this
+"TXT_MY_PROFILE"             => "Meu Perfil",
+"TXT_MY_CALENDAR"            => "Meu Calendário",
+"TXT_MY_INBOX"               => "Minha Caixa de Entrada",
+"TXT_CHANGE_PSW"             => "Trocar Senha",
+"TXT_CHANGE_SETTING"         => "Trocar Configurações",
+"TXT_LOG_OUT"                => "Deslogar",
 
-"TXT_COMP_PROFILE"           => "Company Profile",
-"TXT_CONCERN_PROFILE"        => "Corporation Profile",
-"TXT_USER_PROFILE"           => "User Profile",
+"TXT_COMP_PROFILE"           => "Perfil da Copanhia",
+"TXT_CONCERN_PROFILE"        => "Perfil da Corporação",
+"TXT_USER_PROFILE"           => "Perfil do Usuário",
 
-"TXT_DAILY_AWARD"            => "Daily Award",
-"TXT_GENERAL_MESSAGE"        => "General Message",
+"TXT_DAILY_AWARD"            => "Recompensa Diária",
+"TXT_GENERAL_MESSAGE"        => "Mensagem Geral",
 
 "TXT_FUEL_TANK"              => "Fuel Tank",
 "TXT_TRUCK_TRAILER_MARKET"   => "Truck & Trailer Market",
